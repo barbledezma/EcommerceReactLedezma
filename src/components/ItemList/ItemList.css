@@ -1,0 +1,7 @@
+.item-maincontainer{
+  display: grid;
+  width: 85%;
+  grid-template-columns: auto auto auto;
+  padding-top: 80px;
+  align-items: center;
+}
